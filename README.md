@@ -103,3 +103,6 @@ Features include:
 1. **Freeze a Value**:
    - To freeze a value (e.g., health), simply click the checkbox in the **Memory Viewer**.
    - If the checkbox is red with an "X", the value is frozen.
+
+
+Please do not take any credit for my work.
